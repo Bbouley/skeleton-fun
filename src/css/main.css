@@ -1,1 +1,8 @@
 /* add custom styles */
+p {
+  padding: 2% ;
+}
+
+.border {
+  border : solid black 1px;
+}
