@@ -23,5 +23,20 @@ p {
 }
 
 .border {
-  border : solid black 1px;
+/*  border : solid black 1px;
+*/}
+
+.sub-menu {
+  padding: 0 2%;
 }
+
+ul.sub-menu li {
+  display: inline-block;
+  text-align: center;
+  width: 24.5%;
+  margin: 0;
+  font-size: auto;
+}
+
+
+
